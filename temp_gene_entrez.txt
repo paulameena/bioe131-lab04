@@ -1,0 +1,10 @@
+
+1. PFKM
+Official Symbol: PFKM and Name: phosphofructokinase, muscle [Homo sapiens (human)]
+Other Aliases: ATP-PFK, GSD7, PFK-1, PFK-A, PFK1, PFKA, PFKX, PPP1R122
+Other Designations: ATP-dependent 6-phosphofructokinase, muscle type; 6-phosphofructo-1-kinase; 6-phosphofructokinase type A; 6-phosphofructokinase, muscle type; phosphofructo-1-kinase isozyme A; phosphofructokinase 1; phosphofructokinase, polypeptide X; phosphofructokinase-M; phosphohexokinase; protein phosphatase 1, regulatory subunit 122
+Chromosome: 12; Location: 12q13.11
+Annotation: Chromosome 12 NC_000012.12 (48105253..48146404)
+MIM: 610681
+ID: 5213
+
